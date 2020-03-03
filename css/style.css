@@ -1,0 +1,319 @@
+* {
+	margin:0;
+	padding:0;
+	outline: 1px solid yellow;
+	
+}
+
+body {
+	background:#262626;
+	color:#d4d4d4;
+	font-size: 14px;
+	font-family: Verdana;
+}
+.sait {
+	width: 1280px;
+	margin: 0 auto;
+}
+
+header {
+	padding: 55px 160px 120px 160px;
+}
+
+nav ul{
+	list-style: none;
+	display: flex;
+	align-items: center;
+}
+
+nav ul li {
+	margin-right:30px;
+}
+.logo{
+	
+	margin-right: 70px;
+	width: 60px;
+	height: 60px;
+}
+.mail{
+	width:17px;
+	height: 12px;
+	margin-right: 25px;
+	margin-left: 0;
+}
+.phone{
+	width:17px;
+	height: 17px;
+	margin: 0;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+a {
+	color: d4d4d4;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#ffffff
+}
+
+.right{
+	width: 438px;
+	height: 437px;
+	margin-left: 85px;
+}
+.left{
+	 margin-left: 130px;	
+}
+
+.main{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 36px;
+}
+
+h1{
+	 color:#ffffff;
+	 font-family: "Courier New";
+	 font-size: 45px;
+}
+
+.left h1 {
+	margin-bottom: 60px;
+}
+.left p {
+	margin-bottom: 60px;
+}
+
+.button {
+	width: 240px;
+	height: 50px;
+	background-color: #ffcd06;
+	border: 0 solid #ffcd06;
+	font-family: verdana;
+	font-size: 14px;
+	font-weight: bold;
+	border-radius: 30px;
+	display: flex;
+	justify-content: space-between;
+	padding: 15px 25px;
+	
+}
+
+.button:hover{
+	color:ffffff;
+	
+	background-color:d4d4d4;
+}
+
+.arrow{
+	width: 19px;
+	height: 16px;
+}
+.advantages{
+	background-color:131313;
+	display: flex;
+	justify-content:space-between;
+	padding: 80px 160px;
+}
+.advantages p{
+	margin-top: 35px;
+
+	
+}
+.icon 1 {
+	width: 60px;
+	height: 65px;
+}
+
+.content {
+	padding: 80px 160px;
+	background:#ffffff;
+	display:flex;
+	justify-content: space-between;
+}
+
+
+.content h1{
+	color:#131313;
+	font-size: 24px;
+	font-family: "Courier New";
+}
+
+.content p{
+	color:#222222;
+	font-size: 14px;
+	font-family: "verdana";
+	margin-bottom: 28px;
+}
+.content ul{
+	color:#131313;
+	font-size: 14px;
+	font-family: "verdana";
+}
+
+.war {
+	margin-bottom: 56px;
+}
+
+.content ul li{
+	margin-bottom: 30px;
+}
+
+.war1{
+	margin: 0;
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+
+
+.content span span{
+	font-weight: bold;
+}
+
+.content  span{
+		color: #131313;
+}
+
+.content li{
+	color:#ffcd06;
+	margin-left: 20px;
+}
+
+.form {
+	padding: 80px 160px;
+	background:#f0f0f0;
+	display:flex;
+	justify-content: space-between;
+}
+
+
+
+.form h1 {
+	color:#131313;
+	font-family:"Courier New";
+	font-size: 24px;
+	margin-bottom: 50px;
+	
+}
+
+.form p{
+	color:#222222;
+	font-size: 14px;
+	font-family:Sans-serif;
+}
+	
+input {
+		color:#222222;
+		font-size: 14px;
+		font-family:Sans-serif;
+		padding: 15px;
+		margin-bottom: 10px;
+		background:#ffffff;
+		border: none;
+	}
+	
+.inp {
+	width: 400px;
+}
+
+
+.inp1 {
+	width: 192px;
+}
+
+.inp2 {
+	margin-right: 10px;
+}
+
+
+
+.form span{
+	Font-size: 13px;
+	font-family:"Sans-serif";
+	color: #222222;
+	margin-left: 15px;
+}
+.button-1 {
+	width: 240px;
+	height: 50px;
+	background-color: #222222;
+	border: 0 solid #222222;
+	font-family: verdana;
+	font-size: 14px;
+	font-weight: bold;
+	border-radius: 30px;
+	display: flex;
+	justify-content: space-between;
+	padding: 15px 25px;
+	margin-top: 30px;
+	
+}
+
+.button-1  span{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Verdana;
+}
+
+.left3 {
+	justify-content:space-between;
+	display:flex;
+}
+
+
+.table h1 {
+	color:#feca30;
+	font-size: 24px;
+	font-family:"Courier New";
+
+
+}
+
+.table {
+	padding: 80px 160px;
+	background-color:#222222;
+	
+	
+}
+
+.table p {
+	
+	font-size: 13px;
+	font-family:Verdana;
+
+}
+
+table {
+	margin-top: 75px;
+	width: 960px;
+	height: 145px;
+}
+
+
+.cany {
+	background-color: #131313;
+}
+
+
+.abc {
+	text-align:left;
+}
+
+
+.hg {
+	font-family: verdana;
+	font-size: 13px;
+	background-color: #141,2;
+}
+
+.vanga {
+	color:feca30;
+}
+
